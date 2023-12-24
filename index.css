@@ -1,0 +1,35 @@
+.menu-container {
+    width: fill;
+    display: flex;
+    justify-content: center;   
+  }
+
+
+#click-counter  {
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+#counter-txt  {
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+button {
+    background-color: #000000; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
